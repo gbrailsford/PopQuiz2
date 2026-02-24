@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - [Popquiz]</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; color: #1a73e8; }
+        h2 { color: #555; margin-top: 30px; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #777; border-top: 1px solid #eee; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> February 2026</p>
+
+    <p>This Privacy Policy describes how <strong>[Your App Name]</strong> handles information. Our primary goal is to provide a functional alarm clock utility without compromising your privacy.</p>
+
+    <h2>1. Data Collection</h2>
+    <p>We do not collect, store, or share any personal information. This app does not require a user account, email address, or any form of registration to function.</p>
+
+    <h2>2. Permissions and Usage</h2>
+    <p>To provide its core functionality (waking you up with math problems), the app requires the following permissions on your device:</p>
+    <ul>
+        <li><strong>Alarms & Reminders:</strong> To schedule and trigger the alarm at your requested time.</li>
+        <li><strong>Vibration:</strong> To provide physical alerts when the alarm sounds.</li>
+        <li><strong>Full Screen Intent:</strong> To display the math puzzle over the lock screen so the alarm can be dismissed.</li>
+    </ul>
+    <p>These permissions are used <strong>locally</strong> on your device. We do not use them to access your location, contacts, or files.</p>
+
+    <h2>3. Third-Party Services</h2>
+    <p>This app operates entirely offline for its core features. We do not use third-party analytics, advertising networks, or cloud storage providers. No data is transmitted from your device to our servers or any third-party servers.</p>
+
+    <h2>4. Children’s Privacy</h2>
+    <p>Because we do not collect any personal data, this app is safe for users of all ages and complies with the Children’s Online Privacy Protection Act (COPPA).</p>
+
+    <h2>5. Changes to This Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.</p>
+
+    <div class="footer">
+        <p><strong>Contact Us</strong></p>
+        <p>If you have any questions regarding this policy, please contact us at: <strong>gregbrailsford@gmail.com</strong></p>
+    </div>
+
+</body>
+</html>
