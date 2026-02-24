@@ -1,0 +1,5 @@
+{
+  "name": "Pop Quiz",
+  "description": "A surprise math alarm that triggers randomly within a selected time window. Are you ready for a pop quiz?",
+  "requestFramePermissions": []
+}
